@@ -1,4 +1,8 @@
 # shop
+- fashe theme를 이용해 vuejs2로 바꾸어 보는 프로젝트
+- 참고영상: https://www.youtube.com/watch?v=gDD72Xgpfgs
+- fashe theme download: https://colorlib.com/thank-you-for-downloading/?dlm-dp-dl=1042
+
 
 ## Project setup
 ```
